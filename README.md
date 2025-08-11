@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img src="https://avatars.githubusercontent.com/u/134451415?s=400&u=4f215a766ee518a4a2d64208d1697bf27c1fc616&v=4" width="100" alt="My avatar"/>
 </div>
 
 <div id="badges" align="center">
@@ -8,7 +8,6 @@
 
 <h1 align="center">
 Hello! my name is Yael, and I'm HoneyVapor
-<img src="https://avatars.githubusercontent.com/u/134451415?s=400&u=4f215a766ee518a4a2d64208d1697bf27c1fc616&v=4" width="30px" alt="My avatar"/>
 </h1>
 
 <p align="center">
