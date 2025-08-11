@@ -29,14 +29,13 @@ I'm an apacian Software Developer, and I'm a passionate developer with experienc
 🛠️ My Technical Stack
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,postgres,mongodb,docker,git,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,postgres,mongodb,docker,git,vscode,fastapi,bootstrap,mui" />
 </a>
 </p>
 
-📊 Mis Estadísticas de GitHub
+📊 My GitHub Stats
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DTU_USUARIO_DE_GITHUB%26show_icons%3Dtrue%26theme%3Dtokyonight%26icon_color%3D79ff97%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Estadísticas de GitHub"/>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DTU_USUARIO_DE_GITHUB%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Lenguajes más usados"/>
+<img src="https://github-readme-stats.vercel.app/api?username=honeyvapor&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true" alt="My GitHub Stats"/>
 </p>
 
 <p align="center">
