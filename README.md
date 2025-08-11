@@ -8,7 +8,7 @@
 
 <h1 align="center">
 Hello! my name is Yael, and I'm HoneyVapor
-<img src="https://honeyvapor.github.io/img/me.mp4" width="30px" height="30px"/>
+<img src="https://avatars.githubusercontent.com/u/134451415?s=400&u=4f215a766ee518a4a2d64208d1697bf27c1fc616&v=4" width="30px" alt="My avatar"/>
 </h1>
 
 <p align="center">
@@ -38,21 +38,16 @@ I'm an apacian Software Developer, and I'm a passionate developer with experienc
 <img src="https://github-readme-stats.vercel.app/api?username=honeyvapor&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true" alt="My GitHub Stats"/>
 </p>
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DTU_USUARIO_DE_GITHUB%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Racha de Contribuciones"/>
-</p>
-
-🚀 Mi Proyecto Destacado
+🚀 My Featured Project
 <div align="center">
 <h4>
-<a href="URL_DEL_PROYECTO_EN_VIVO" target="_blank">Portafolio con React, MUI y TypeScript</a>
-</h4>
-<p>Mi portafolio personal construido para mostrar mis proyectos y habilidades. Diseño moderno, responsivo y con un tema oscuro elegante.</p>
-<a href="URL_DEL_REPOSITORIO" target="_blank">
-<img src="https://www.google.com/search?q=https://placehold.co/600x300/1e1e2f/90caf9%3Ftext%3DVer%2BProyecto" alt="Vista previa del proyecto"/>
+<a href="https://elreydeltornillo.com" target="_blank">
+    I was working in El Rey del Tornillo as a Full-Stack
 </a>
+</h4>
+<p>My personal contribution to this big project, El Rey del Tornillo, is a modern and responsive e-commerce platform. It features a modern design, and a user-friendly interface. I also worked on the backend, using PHP and SQL Server. This project was a great opportunity for me to learn and apply new technologies, and I'm proud of the result.</p>
 </div>
 
 <div align="center">
-<p>¡Gracias por tu visita!</p>
+<p>Thanks for your visit!</p>
 </div>
