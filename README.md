@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://avatars.githubusercontent.com/u/134451415?s=400&u=4f215a766ee518a4a2d64208d1697bf27c1fc616&v=4" width="300vw" alt="My avatar"/>
+<img src="https://avatars.githubusercontent.com/u/134451415?s=400&u=4f215a766ee518a4a2d64208d1697bf27c1fc616&v=4" width="300vw" style="border-radius:99%;" alt="My avatar"/>
 </div>
 
 <div id="badges" align="center">
