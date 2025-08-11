@@ -11,7 +11,7 @@ Hello! my name is Yael, and I'm HoneyVapor
 </h1>
 
 <p align="center">
-I'm an apacian Software Developer, and I'm a passionate developer with experience in creating modern and efficient web applications. I love solving complex problems and learning new technologies. Welcome to my GitHub corner!
+I'm an passionate Software Developer with experience in creating modern and efficient web applications. I love solving complex problems and learning new technologies. Welcome to my GitHub corner!
 </p>
 
 👨‍💻 About me
